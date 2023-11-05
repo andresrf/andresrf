@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**andresrf/andresrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎉 I have successfully completed the Data Science Bootcamp at **Tripleten**
+- 🌱 I’m currently learning Data Science & MLOps at **AnyoneAI**, and Data Engineering at Coderhouse
+- 💬 Ask me about **Data Science**
+- 📫 How to reach me: https://www.linkedin.com/in/andresmrf
+- ⚡ Fun fact: I have experience working as a UX, UI and Service Designer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+
+![Pandas](https://img.shields.io/badge/Pandas-white?logo=python)
+![Numpy](https://img.shields.io/badge/Numpy-white?logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-white?logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?logo=python)
+![Seaborn](https://img.shields.io/badge/Seaborn-white?logo=python)
+![Scipy stats](https://img.shields.io/badge/Scipy_stats-white?logo=scipy)
+![Keras](https://img.shields.io/badge/Keras-white?logo=keras)
+![SQL](https://img.shields.io/badge/SQL-white?logo=sql)
