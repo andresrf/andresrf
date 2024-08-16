@@ -2,8 +2,8 @@
 
 
 - 🎉 I have successfully completed the Data Science Bootcamp at **Tripleten**
-- 🌱 I have experienced working as a Machine Learning Engineer at **AnyoneAI**
-- 🤓 I'm currently working as a Advanced AI Data Trainer at **ScaleAI**
+- 🌱 I have experience working as a Machine Learning Engineer at **AnyoneAI**
+- 🤓 I'm currently working as an Advanced AI Data Trainer at **ScaleAI**
 - 💬 Ask me about **Data Science** and **LLM's**
 - 📫 How to reach me: https://www.linkedin.com/in/andresmrf
 - ⚡ Fun fact: I have previous experience working as a UX, UI and Service Designer.
