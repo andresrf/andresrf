@@ -5,7 +5,7 @@
 - 🌱 I have experience working as a Machine Learning Engineer at **AnyoneAI**
 - 💬 Ask me about **Data Science** and **LLM's**
 - 📫 How to reach me: https://www.linkedin.com/in/andresmrf
-- ⚡ Fun fact: I have previous experience working as a UX, UI and Service Designer.
+- ⚡ Fun fact: I have previous experience working as a Product Lead.
 
 ### Skills:
 
