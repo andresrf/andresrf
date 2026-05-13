@@ -3,7 +3,7 @@
 - 🤓 I'm currently working as Computer Science Expert AI Data Trainer at **ScaleAI**
 - 🌱 I have experience working as a Machine Learning Engineer at **AnyoneAI**
 - 🎉 I have successfully completed the Data Science Bootcamp at **Tripleten**
-- 💬 Ask me about **Data Science** and **LLM's**
+- 💬 Ask me about **Data Engineering** and **LLM's**
 - 📫 How to reach me: https://www.linkedin.com/in/andresramirez-ml/
 - ⚡ Fun fact: I have previous experience working as a Product Lead.
 
