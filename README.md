@@ -17,3 +17,8 @@
 ![Scipy stats](https://img.shields.io/badge/Scipy_stats-white?logo=scipy)
 ![Keras](https://img.shields.io/badge/Keras-white?logo=keras)
 ![SQL](https://img.shields.io/badge/SQL-white?logo=sql)
+dbt
+Databricks
+Snowflake
+PySpark
+AWS
