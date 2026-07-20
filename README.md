@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🤓 I'm currently working as Computer Science Expert AI Data Trainer at **ScaleAI**
+- 🤓 I have experience working as Data | AI Engineer at **Thoughtworks**
 - 🌱 I have experience working as a Machine Learning Engineer at **AnyoneAI**
-- 🎉 I have successfully completed the Data Science Bootcamp at **Tripleten**
+- 🎉 I have a Databricks Data Engineer Certification and I'm taking the AWS Certified Generative AI Developer - Professional exam on August 5.
 - 💬 Ask me about **Data Engineering** and **LLM's**
 - 📫 How to reach me: https://www.linkedin.com/in/andresramirez-ml/
 - ⚡ Fun fact: I have previous experience working as a Product Lead.
