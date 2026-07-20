@@ -3,7 +3,7 @@
 - 🤓 I have experience working as Data | AI Engineer at **Thoughtworks**
 - 🌱 I have experience working as a Machine Learning Engineer at **AnyoneAI**
 - 🎉 I have a Databricks Data Engineer Certification and I'm taking the AWS Certified Generative AI Developer - Professional exam on August 5.
-- 💬 Ask me about **Data Engineering** and **LLM's**
+- 💬 Ask me about **Data Engineering** and **AI Engineering**
 - 📫 How to reach me: https://www.linkedin.com/in/andresramirez-ml/
 - ⚡ Fun fact: I have previous experience working as a Product Lead.
 
